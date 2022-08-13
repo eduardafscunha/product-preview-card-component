@@ -1,0 +1,27 @@
+/* font-family: 'Montserrat', sans-serif; */
+/* style reset */
+* {
+  padding: 0;
+  margin: 0;
+  vertical-align: baseline;
+  list-style: none;
+  border: 0;
+}
+
+:root {
+  /* colors */
+  --background-color: #f2eae2;
+}
+
+body {
+  background-color: var(--background-color);
+}
+
+.product {
+  margin: 1.75rem 1rem;
+}
+
+.product-img {
+  width: 21.4rem;
+  height: 15rem;
+}
